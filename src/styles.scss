@@ -15,6 +15,10 @@ $animate-speed: 2s;
   color: #fff;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: Arial, Helvetica, sans-serif;
   line-height: 1.4;
